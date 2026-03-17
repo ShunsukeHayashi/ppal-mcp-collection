@@ -1,3 +1,5 @@
+[![Built by 合同会社みやび](https://img.shields.io/badge/Built%20by-合同会社みやび-blue?style=flat-square&logo=github)](https://miyabi-ai.jp)
+
 # PPAL MCP Collection
 
 > Pro Prompt Agent Lab メンバー限定 MCPサーバー集
